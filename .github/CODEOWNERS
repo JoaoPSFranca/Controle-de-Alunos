@@ -1,0 +1,10 @@
+# This is a CODEOWNERS file for GitHub
+# Each line represents a file pattern followed by one or more owners
+
+# Default owners for everything in the repo
+*       @JoaoPSFranca
+
+# Examples of more specific ownership assignments:
+# /docs/    @JoaoPSFranca
+# *.js      @JoaoPSFranca
+# /src/     @JoaoPSFranca
